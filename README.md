@@ -8,3 +8,5 @@ This app is made with the following:
   - Used to display information about the scientist next to the image being tracked
 - Codable
   - Used to decode the json file containing the information about each scientist
+
+![Image description](https://i.imgur.com/aqYy9WQ.jpg)
